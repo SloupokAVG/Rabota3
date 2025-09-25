@@ -12,6 +12,7 @@ fun main() {
         println("Двоичное представление: 0")
         return
     }
+
     var currentNumber = number
     val binaryDigits = mutableMapOf<Int>()
 
